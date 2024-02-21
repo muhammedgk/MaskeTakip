@@ -59,6 +59,7 @@ namespace Workaround
             pttManager.GiveMask(person1);
 
             Console.ReadLine();
+
         }
 
 
